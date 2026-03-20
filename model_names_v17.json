@@ -169,6 +169,11 @@
       "id": "wmi-model",
       "name": "WMI model 👀📡",
       "version": "v9"
+    },
+    {
+      "id": "off-policy",
+      "name": "Off-Policy 👀📡",
+      "version": "v1"
     }
   ]
 }
