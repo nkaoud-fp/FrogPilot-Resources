@@ -2,222 +2,222 @@
   "models": [
     {
       "id": "dark-souls",
-      "name": "Dark Souls (Default) \ud83d\udc40\ud83d\udce1",
+      "name": "Dark Souls (Default) 👀📡",
       "version": "v9"
     },
     {
       "id": "alabama",
-      "name": "Alabama \ud83d\udc40\ud83d\udce1",
+      "name": "Alabama 👀📡",
       "version": "v5"
     },
     {
       "id": "certified-herbalist",
-      "name": "Certified Herbalist \ud83d\uddfa\ufe0f\ud83d\udc40\ud83d\udce1",
+      "name": "Certified Herbalist 👀📡",
       "version": "v1"
     },
     {
       "id": "down-to-ride",
-      "name": "Down to Ride \ud83d\udc40\ud83d\udce1",
+      "name": "Down to Ride 👀📡",
       "version": "v8"
     },
     {
       "id": "dragon-rider",
-      "name": "Dragon Rider \ud83d\udc40\ud83d\udce1",
+      "name": "Dragon Rider 👀📡",
       "version": "v5"
     },
     {
       "id": "duck-amigo",
-      "name": "Duck Amigo \ud83d\uddfa\ufe0f\ud83d\udc40\ud83d\udce1",
+      "name": "Duck Amigo 👀📡",
       "version": "v1"
     },
     {
       "id": "filet-o-fish",
-      "name": "Filet-O-Fish \ud83d\udc40\ud83d\udce1",
+      "name": "Filet-O-Fish 👀📡",
       "version": "v7"
     },
     {
       "id": "firehose",
-      "name": "Firehose \ud83d\udc40\ud83d\udce1",
+      "name": "Firehose 👀📡",
       "version": "v9"
     },
     {
       "id": "frankenweenie",
-      "name": "Frankenweenie \ud83d\udc40\ud83d\udce1",
+      "name": "Frankenweenie 👀📡",
       "version": "v5"
     },
     {
       "id": "kerrygold",
-      "name": "Kerrygold \ud83d\udc40\ud83d\udce1",
+      "name": "Kerrygold 👀📡",
       "version": "v7"
     },
     {
       "id": "last-horizon",
-      "name": "Last Horizon \ud83d\udc40\ud83d\udce1",
+      "name": "Last Horizon 👀📡",
       "version": "v5"
     },
     {
       "id": "liquid-crystal",
-      "name": "Liquid Crystal \ud83d\udc40\ud83d\udce1",
+      "name": "Liquid Crystal 👀📡",
       "version": "v7"
     },
     {
       "id": "los-angeles",
-      "name": "Los Angeles \ud83d\uddfa\ufe0f\ud83d\udc40\ud83d\udce1",
+      "name": "Los Angeles 👀📡",
       "version": "v1"
     },
     {
       "id": "macrostiff",
-      "name": "MacroStiff \ud83d\udc40\ud83d\udce1",
+      "name": "MacroStiff 👀📡",
       "version": "v9"
     },
     {
       "id": "national-public-radio",
-      "name": "National Public Radio \ud83d\udc40\ud83d\udce1",
+      "name": "National Public Radio 👀📡",
       "version": "v6"
     },
     {
       "id": "nevada",
-      "name": "Nevada \ud83d\udc40\ud83d\udce1",
+      "name": "Nevada 👀📡",
       "version": "v9"
     },
     {
       "id": "north-america",
-      "name": "North America \ud83d\udc40\ud83d\udce1",
+      "name": "North America 👀📡",
       "version": "v6"
     },
     {
       "id": "north-dakota",
-      "name": "North Dakota \ud83d\udc40\ud83d\udce1",
+      "name": "North Dakota 👀📡",
       "version": "v2"
     },
     {
       "id": "north-nevada",
-      "name": "North Nevada \ud83d\udc40\ud83d\udce1",
+      "name": "North Nevada 👀📡",
       "version": "v9"
     },
     {
       "id": "notre-dame",
-      "name": "Notre Dame \ud83d\udc40\ud83d\udce1",
+      "name": "Notre Dame 👀📡",
       "version": "v4"
     },
     {
       "id": "null-pointer",
-      "name": "Null Pointer \ud83d\udc40\ud83d\udce1",
+      "name": "Null Pointer 👀📡",
       "version": "v5"
     },
     {
       "id": "postal-service",
-      "name": "Postal Service \ud83d\udc40\ud83d\udce1",
+      "name": "Postal Service 👀📡",
       "version": "v5"
     },
     {
       "id": "radical-turtle",
-      "name": "Radical Turtle \ud83d\udc40",
+      "name": "Radical Turtle 👀📡",
       "version": "v3"
     },
     {
       "id": "recertified-herbalist",
-      "name": "Recertified Herbalist \ud83d\uddfa\ufe0f\ud83d\udc40\ud83d\udce1",
+      "name": "Recertified Herbalist 👀📡",
       "version": "v1"
     },
     {
       "id": "sc-driving",
-      "name": "SC driving \ud83d\udc40\ud83d\udce1",
+      "name": "SC driving 👀📡",
       "version": "v9"
     },
     {
       "id": "secret-good-openpilot",
-      "name": "SecretGoodOpenpilot \ud83d\udc40\ud83d\udce1",
+      "name": "SecretGoodOpenpilot 👀📡",
       "version": "v5"
     },
     {
       "id": "space-lab",
-      "name": "Space Lab \ud83d\udc40\ud83d\udce1",
+      "name": "Space Lab 👀📡",
       "version": "v8"
     },
     {
       "id": "steam-powered",
-      "name": "Steam Powered \ud83d\udc40\ud83d\udce1",
+      "name": "Steam Powered 👀📡",
       "version": "v9"
     },
     {
       "id": "the-cool-peoples-model",
-      "name": "The Cool People's Model \ud83d\udc40\ud83d\udce1",
+      "name": "The Cool People's Model 👀📡",
       "version": "v9"
     },
     {
       "id": "tomb-raider",
-      "name": "Tomb Raider \ud83d\udc40\ud83d\udce1",
+      "name": "Tomb Raider 👀📡",
       "version": "v8"
     },
     {
       "id": "vegan-filet-o-fish",
-      "name": "Vegan Filet-O-Fish \ud83d\udc40\ud83d\udce1",
+      "name": "Vegan Filet-O-Fish 👀📡",
       "version": "v7"
     },
     {
       "id": "vegetarian-filet-o-fish",
-      "name": "Vegetarian Filet-O-Fish \ud83d\udc40\ud83d\udce1",
+      "name": "Vegetarian Filet-O-Fish 👀📡",
       "version": "v7"
     },
     {
       "id": "wd-40",
-      "name": "WD-40 \ud83d\udc40\ud83d\udce1",
+      "name": "WD-40 👀📡",
       "version": "v2"
     },
     {
       "id": "wmi-model",
-      "name": "WMI model \ud83d\udc40\ud83d\udce1",
+      "name": "WMI model 👀📡",
       "version": "v9"
     },
     {
       "id": "off-policy",
-      "name": "Off-Policy \ud83d\udc40\ud83d\udce1",
+      "name": "Off-Policy 👀📡",
       "version": "v9"
     },
     {
       "id": "23mar2026",
-      "name": "23mar2026 \ud83d\udc40\ud83d\udce1",
+      "name": "23mar2026 👀📡",
       "version": "v9"
     },
     {
       "id": "24mar2026",
-      "name": "24mar2026 \ud83d\udc40\ud83d\udce1",
+      "name": "24mar2026 👀📡",
       "version": "v9"
     },
     {
       "id": "26mar2026",
-      "name": "26mar2026 \ud83d\udc40\ud83d\udce1",
+      "name": "26mar2026 👀📡",
       "version": "v9"
     },
     {
       "id": "05apr2026",
-      "name": "05apr2026 \ud83d\udc40\ud83d\udce1",
+      "name": "05apr2026 👀📡",
       "version": "v12"
     },
     {
       "id": "13apr2026",
-      "name": "13apr2026 \ud83d\udc40\ud83d\udce1",
+      "name": "13apr2026 👀📡",
       "version": "v9"
     },
     {
       "id": "26may2026",
-      "name": "26may2026 \ud83d\udc40\ud83d\udce1",
+      "name": "26may2026 👀📡",
       "version": "v9"
     },
     {
       "id": "24may2026",
-      "name": "24may2026 \ud83d\udc40\ud83d\udce1",
+      "name": "24may2026 👀📡",
       "version": "v9"
     },
     {
       "id": "22apr2026",
-      "name": "22apr2026 \ud83d\udc40\ud83d\udce1",
+      "name": "22apr2026 👀📡",
       "version": "v9"
     },
     {
       "id": "27may2026",
-      "name": "27may2026 \ud83d\udc40\ud83d\udce1",
+      "name": "27may2026 👀📡",
       "version": "v9"
     }
   ]
